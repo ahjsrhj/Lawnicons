@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/my_dashen" package="com.netease.gl" name="大神" />
     <icon drawable="@drawable/my_meituan" package="com.sankuai.meituan" name="美团" />
     <icon drawable="@drawable/my_eleme" package="me.ele" name="eleme" />
     <icon drawable="@drawable/my_cmbc" package="cmb.pb" name="CMBC" />
