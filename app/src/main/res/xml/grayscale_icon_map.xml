@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/my_meituan" package="com.sankuai.meituan" name="美团" />
+    <icon drawable="@drawable/my_eleme" package="me.ele" name="eleme" />
+    <icon drawable="@drawable/my_cmbc" package="cmb.pb" name="CMBC" />
+    <icon drawable="@drawable/my_pdd" package="com.xunmeng.pinduoduo" name="拼多多" />
+    <icon drawable="@drawable/my_thanox" package="github.tornaco.android.thanos" name="Thanox" />
+    <icon drawable="@drawable/my_magisk" package="txemb.ngy" name="Magisk" />
+    <icon drawable="@drawable/my_jd" package="com.jingdong.app.mall" name="京东" />
+    <icon drawable="@drawable/my_smzdm" package="com.smzdm.client.android" name="smzdm" />
+    <icon drawable="@drawable/my_taobao" package="com.taobao.taobao" name="淘宝" />
+    <icon drawable="@drawable/my_xianyu" package="com.taobao.idlefish" name="闲鱼" />
+    <icon drawable="@drawable/my_notion" package="notion.id" name="Notion" />
+    <icon drawable="@drawable/my_weibo" package="com.sina.weibo" name="weibo" />
+    <icon drawable="@drawable/my_xiaoheihe" package="com.max.xiaoheihe" name="小黑盒" />
+    <icon drawable="@drawable/my_alipay" package="com.eg.android.AlipayGphone" name="支付宝" />
+    <icon drawable="@drawable/my_mihome" package="com.xiaomi.smarthome" name="米家" />
+    <icon drawable="@drawable/my_taptap" package="com.taptap" name="Taptap" />
+    <icon drawable="@drawable/my_zhihu" package="com.zhihu.android" name="知乎" />
+    <icon drawable="@drawable/my_mt_file" package="bin.mt.plus" name="MT文件管理器" />
+    <icon drawable="@drawable/my_abm" package="com.dt.abm" name="ABM" />
+    <icon drawable="@drawable/my_vtn" package="com.abm.app" name="VTN" />
+    <icon drawable="@drawable/my_youyanshe" package="com.yystv.www" name="游研社" />
+    <icon drawable="@drawable/my_reader" package="io.legado.app.release" name="阅读" />
+    <icon drawable="@drawable/my_playstation" package="com.scee.psxandroid" name="Play Station" />
+    <icon drawable="@drawable/my_amdlink" package="com.amd.link" name="AMD Link" />
+    <icon drawable="@drawable/my_nga" package="gov.pianzong.androidnga" name="NGA" />
+    <icon drawable="@drawable/my_lark" package="com.ss.android.lark" name="飞书" />
+    <icon drawable="@drawable/my_cookapk" package="com.coolapk.market" name="cookapk" />
+    <icon drawable="@drawable/my_weixin" package="com.tencent.mm" name="微信" />
+    <icon drawable="@drawable/my_jike" package="com.ruguoapp.jike" name="即刻" />
+    <icon drawable="@drawable/my_kook" package="cn.kaiheila" name="Kook" />
+    <icon drawable="@drawable/my_qq" package="com.tencent.mobileqq" name="QQ" />
+    <icon drawable="@drawable/my_neteasemusic" package="com.netease.cloudmusic" name="网易云音乐" />
+    <icon drawable="@drawable/my_bilibili" package="tv.danmaku.bili" name="Bilibili" />
+    <icon drawable="@drawable/my_gcore" package="me.tangke.gamecores" name="Gcore" />
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
